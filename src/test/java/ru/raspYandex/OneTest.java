@@ -26,15 +26,15 @@ public class OneTest extends WebDriverSettings {
         form.findElement(By.xpath("//*[@id=\"root\"]/div/header/div[1]/div/div[5]/form/button[2]")).click();
     }
 
-    @Test
+    /*@Test
     public void twoTest () {
 
-        
 
 
 
 
-    }
+
+    }*/
 
 
 }
