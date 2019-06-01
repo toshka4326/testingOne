@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24aa08c-2ae4-449c-9d4b-e3a7db2e8019" name="Default Changelist" comment="" />
+    <list default="true" id="f24aa08c-2ae4-449c-9d4b-e3a7db2e8019" name="Default Changelist" comment="added comments and 9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/raspYandex/OneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/raspYandex/OneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/raspYandex/OneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/raspYandex/OneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/raspYandex/WebDriverSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/raspYandex/WebDriverSettings.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
+            <state relative-caret-position="646">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
@@ -24,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/raspYandex/OneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gitRepositories" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="afd3e77b-9484-4055-9406-8a0f41f1b123" />
@@ -63,9 +69,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ru/raspYandex/OneTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java" />
       </list>
     </option>
   </component>
@@ -76,9 +82,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="239" />
+    <option name="y" value="162" />
     <option name="width" value="1400" />
     <option name="height" value="1018" />
   </component>
@@ -151,11 +157,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/gitRepositories" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,45 +226,60 @@
       <option name="presentableId" value="Default" />
       <updated>1559189157721</updated>
     </task>
+    <task id="LOCAL-00001" summary="test two was commented">
+      <created>1559279549427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559279549427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refatory">
+      <created>1559375083634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559375083634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 19h 53m 22s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 16h 58m 42s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 20h 04m 58s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 21m 34s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 17m 10s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 24m 25s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 38m 29s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 24m 43s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 39m 08s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 29m 17s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 40m 01s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 30m 18s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 44m 50s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 32m 48s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 50m 28s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 33m 33s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 51m 08s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 34m 22s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OneTest_oneTest - 2019.05.30 at 21h 54m 04s.xml">
+    <history-entry file="OneTest_oneTest - 2019.06.01 at 18h 35m 21s.xml">
       <configuration name="OneTest.oneTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="37" width="1400" height="1018" extended-state="0" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2012128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -265,15 +287,15 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67014927" weight="0.32881355" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6896362" weight="0.30218068" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49944875" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.32985073" side_tool="true" visible="true" weight="0.32881355" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49253732" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5270121" side_tool="true" visible="true" weight="0.3281412" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49889746" weight="0.32917964" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47298786" weight="0.3281412" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -281,6 +303,12 @@
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test two was commented" />
+    <MESSAGE value="refatory" />
+    <MESSAGE value="added comments and 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments and 9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/By.class">
@@ -297,27 +325,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/raspYandex/WebDriverSettings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/raspYandex/OneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
